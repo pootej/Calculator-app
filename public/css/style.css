@@ -16,7 +16,7 @@ input[type="text"] {
 }
 
 body {
-  background-image: url("../img/20220101_113157-01.jpg");
+  background-image: url("public/img/20220101_113157-01.jpeg");
   background-size: cover;
   background-attachment: fixed;
 }
